@@ -1,0 +1,1 @@
+Objective of this EDA project is to conduct a comprehensive analysis of customer ratings and reviews for various restaurant types listed on Zomato, with the aim of identifying key factors influencing customer satisfaction and providing actionable insights to restaurant owners and managers.
